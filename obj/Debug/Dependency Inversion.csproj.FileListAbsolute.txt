@@ -1,0 +1,7 @@
+C:\Users\lenya\source\repos\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.exe.config
+C:\Users\lenya\source\repos\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.exe
+C:\Users\lenya\source\repos\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.pdb
+C:\Users\lenya\source\repos\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.csproj.CoreCompileInputs.cache
+C:\Users\lenya\source\repos\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.exe
+C:\Users\lenya\source\repos\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.pdb
+C:\Users\lenya\source\repos\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.csprojAssemblyReference.cache
